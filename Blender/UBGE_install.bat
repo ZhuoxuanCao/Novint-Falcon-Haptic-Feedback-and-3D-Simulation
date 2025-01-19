@@ -1,0 +1,1 @@
+"C:\Program Files\7-Zip\7z.exe" x \\ppi\Logiciels2\2022-2023\UPBGEv0.2.5b_win.zip -oc:\tmp
